@@ -54,6 +54,8 @@ async def start(client, message):
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        await message.reply_chat_action(enums.ChatAction.TYPING)
+        await message.reply_sticker("CAACAgQAAxkBAAEoC1dj08hqaJJg4W7Ac46UBDDfAAGHw-YAAqUOAAIeo6FShfAj8A3ogeQeBA")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
@@ -100,6 +102,8 @@ async def start(client, message):
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        await message.reply_chat_action(enums.ChatAction.TYPING)
+        await message.reply_sticker("CAACAgQAAxkBAAEoC1dj08hqaJJg4W7Ac46UBDDfAAGHw-YAAqUOAAIeo6FShfAj8A3ogeQeBA")
         await message.reply_photo(
             photo=random.choice(PICS),
             caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
