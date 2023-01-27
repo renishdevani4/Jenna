@@ -17,13 +17,14 @@ class script(object):
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖My name :- <a href=https://t.me/MissValentinaa_Bot><b>𝘔𝘪𝘴𝘴 𝘝𝘢𝘭𝘦𝘯𝘵𝘪𝘯𝘢𝘢....💙</b></a>\n
-👨‍💻 Developer :- <a href=https://t.me/R_Mvzz_Group><b>RMvzZ Group </b></a>\n
+    ABOUT_TXT = """<b><i>🤖My name :- <a href=https://t.me/Jenna_autofilter_bot><b>Jenna Ortega</b></a>\n
+👨‍💻 Developer 1:- <a href=https://t.me/renish_rgi><b>❁✗❍═❰ RENISH ❱═❍✗❁</b></a>\n
+👨‍💻 Developer 2:- <a href=https://t.me/millie_rmvzz><b>Millie Bobby brown</b></a>\n
 📝 Language:- Python3 \n
-📢 Updates Channel:- <a href=https://telegram.me/REQUEST_MOvizz><b></b>REQUEST_MOvizz</a>\n"""
+📢 Updates Channel:- <a href=https://t.me/millie_robot_update><b></b>Millie robot update</a>\n"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
-» Contact Me @MissValentinaa_Bot<b>"""
+» Contact Me https://t.me/renish_rgi<b>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
