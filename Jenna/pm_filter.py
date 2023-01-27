@@ -438,8 +438,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('ADD ME TO YOUR GROUP', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡BACKUP⚡', url='https://telegram.me/REQUEST_MOvizz'),
-            InlineKeyboardButton('🤖 UPDATES🤖', url='https://telegram.me/R_Mvzz')
+            InlineKeyboardButton('⚡BACKUP⚡', url='https://t.me/r_from_rgi'),
+            InlineKeyboardButton('🤖 UPDATES🤖', url='https://t.me/millie_robot_update')
         ], [
             InlineKeyboardButton('♻️HELP♻️', callback_data='help'),
             InlineKeyboardButton('♻️ABOUT♻️', callback_data='about')
@@ -691,7 +691,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡HOW TO DOWNLOAD⚡", url='https://t.me/MissValentinaa_Bot?start=ZmlsZV9CQUFEQlFBRDl3Z0FBcFBCb1ZUU180QjBxVHB4YWhZRQ')
+            InlineKeyboardButton(text="⚡HOW TO DOWNLOAD⚡", url='https://youtube.com/shorts/wGPAlSLT6xg?feature=share')
         ]
     )
 
