@@ -23,13 +23,13 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ UPDATES ⚡', url='https://t.me/greymatter_botshttps://telegram.me/R_Mvzz')
+                InlineKeyboardButton('⚡ UPDATES ⚡', url='https://t.me/millie_robot_update')
             ],
             [
-                InlineKeyboardButton('⚡ BACKUP ⚡', url=f"https://telegram.me/REQUEST_MOvizz"),
+                InlineKeyboardButton('⚡ BACKUP ⚡', url=f"https://t.me/r_from_rgi"),
             ],
             [
-                InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
+                InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url="https://youtube.com/shorts/wGPAlSLT6xg?feature=share")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ BACKUP ⚡', url='https://telegram.me/REQUEST_MOvizz'),
-            InlineKeyboardButton('🤖 UPDATES 🤖', url='https://telegram.me/R_Mvzz')
+            InlineKeyboardButton('⚡ BACKUP ⚡', url='https://t.me/r_from_rgi'),
+            InlineKeyboardButton('🤖 UPDATES 🤖', url='https://t.me/millie_robot_update')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -95,8 +95,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ BACKUP ⚡', url='https://telegram.me/REQUEST_MOvizz'),
-            InlineKeyboardButton('🤖 UPDATES 🤖', url='https://telegram.me/R_Mvzz')
+            InlineKeyboardButton('⚡ BACKUP ⚡', url='https://t.me/r_from_rgi'),
+            InlineKeyboardButton('🤖 UPDATES 🤖', url='https://t.me/millie_robot_update')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
